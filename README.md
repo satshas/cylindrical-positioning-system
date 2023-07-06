@@ -2,7 +2,7 @@
 
 An open source 5 axes motion system used to design antennas.
 
-![CAD1](media/cps_1.JPG)
+![CAD1](media/CPS_1.jpg)
 
 # Specifications
 
