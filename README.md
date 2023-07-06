@@ -27,8 +27,10 @@ Specifications:
   - X and Y axes MGN12
   - Z axis HGR15
 - slewing rings and spur gears:
-- RX ALA838.56.1 
-- RY ASA244.25.2 
+- RX ALA838.56.1 138T  + 12T M6
+- RY ASA244.25.2 120T  + 15T M2
 - NSK C5 1005 and 1205 ball screws, X and Y axes
 - Kamp & Kötter C5 1610 ball screw, Z Axis 
 - grbl-HAL iMXRT1062 firmware
+- inductive endstops on all axes
+- Power Supply MeanWell RSP-750-24
