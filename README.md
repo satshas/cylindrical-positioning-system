@@ -1,5 +1,8 @@
 # cylindrical-positioning-system
 
+![CAD1](media/cps_cad_1.JPG)
+
+![CAD2](media/cps_cad_2.JPG)
 
 Specifications:
 
