@@ -2,9 +2,7 @@
 
 An open source 5 axes motion system used to design antennas.
 
-![CAD1](media/cps_cad_1.JPG)
-
-![CAD2](media/cps_cad_2.JPG)
+![CAD1](media/cps_1.JPG)
 
 # Specifications
 
@@ -36,6 +34,10 @@ An open source 5 axes motion system used to design antennas.
 - grbl-HAL iMXRT1062 firmware
 - inductive endstops on all axes
 - Power Supply MeanWell RSP-750-24
+
+![CAD1](media/cps_cad_1.JPG)
+
+![CAD2](media/cps_cad_2.JPG)
 
 Author
 --
