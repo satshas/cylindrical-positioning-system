@@ -6,7 +6,7 @@ An open source 5 axes motion system used to design antennas.
 
 ![CAD2](media/cps_cad_2.JPG)
 
-Specifications:
+# Specifications
 
 - 5 axes total, 3 linear, 2 rotational
 - axes range:
