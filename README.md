@@ -1,6 +1,6 @@
 # cylindrical-positioning-system
 
-An open source 5 axes motion system used to design antennas.
+An open source 5 axes motion system used for scientific measurement purposes.
 
 ![CAD1](media/CPS_1.jpg)
 
