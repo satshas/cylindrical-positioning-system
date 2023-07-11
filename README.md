@@ -3,13 +3,13 @@
 An open source 5 axes motion system used for scientific measurement purposes.
 
 ![CAD1](media/CPS_1.jpg)
-
 ![GIF1](media/CPS_center.gif)
 ![GIF2](media/CPS_side.gif)
 ![GIF3](media/CPS_all.gif)
+![GIF4](media/CPS_linear_accuracy.gif)
+![GIF5](media/CPS_rot_accuracy.gif)
 
-![GIF3](media/CPS_accuracy_linear.gif)
-![GIF3](media/CPS_rotational_accuray.gif)
+
 
 # Specifications
 
