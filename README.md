@@ -8,7 +8,8 @@ An open source 5 axes motion system used for scientific measurement purposes.
 ![GIF2](media/CPS_side.gif)
 ![GIF3](media/CPS_all.gif)
 
-
+![GIF3](media/CPS_accuracy_linear.gif)
+![GIF3](media/CPS_rotational_accuray.gif)
 
 # Specifications
 
